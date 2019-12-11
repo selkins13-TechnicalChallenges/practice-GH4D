@@ -5,7 +5,7 @@
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @@selkins13**.
+If you have a question, or need assistance during class, **please create an issue and mention @selkins13**.
 
 ## Give Us Feedback
 
