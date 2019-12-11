@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: December 11 - 12, 2019
-- Facilitator: @@selkins13
+- Facilitator: @selkins13
 
 ## Talk to Us!!
 
